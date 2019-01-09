@@ -8,4 +8,4 @@ cat $file_name
 else
        echo     "$file_name does not exist"
 fi
-~ 
+
