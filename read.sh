@@ -1,5 +1,7 @@
 #!/bin/bash
 # how to read files
+# kar do bhaiya isko merge 
+# pareshan na karo ab
 echo " enter file_name "
 read file_name
 if [ -f $file_name ]
